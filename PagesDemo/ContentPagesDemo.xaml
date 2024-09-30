@@ -3,7 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PagesDemo.ContentPagesDemo"
              Title="ContentPagesDemo"
-             BackgroundColor="DeepSkyBlue">
+             BackgroundColor="DeepSkyBlue"
+             >
+             
     <VerticalStackLayout>
         <Label 
             Text="Germán es una gran profesor"

@@ -6,7 +6,9 @@
         {
             InitializeComponent();
 
-            MainPage =new NavigationPage( new MainPage());
+            // MainPage =new NavigationPage (new TabbedPageDemo());
+            // MainPage = new FlyoutPageDemo();
+            MainPage = new TabbedPageDemo();
         }
     }
 }
